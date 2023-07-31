@@ -2,11 +2,11 @@
  
 - 🔥 Desenvolvedor FullStack 
 
-- 📚 Atualmente sou estudante de programação.
+- 📚 Estudante de programação na OneBitCode 🤘🏼.
   
-- 💾 Todo meu portifólio está em [🚨Portifólio em construção.]()
+- 💾 Todo meu portifólio está em [📊Desenvolvimento.]()
   
-- 🧠 Conhecimento em **HTML, CSS, JavaScript, Bootstrap, React,MongoDB,SQl.**
+- 🧠 Conhecimento em **HTML, CSS, JavaScript, Bootstrap, Sass, Bulma.**
   
   <br><br>
   
@@ -20,7 +20,7 @@
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
        
   
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   
@@ -38,6 +38,5 @@
   ##  &nbsp; Social links
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-soares-643567227/)
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguel_ss299/)
+
   
